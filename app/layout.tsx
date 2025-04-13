@@ -28,20 +28,11 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     siteName: "Weather App",
-    images: [
-      {
-        url: "/banner.png",
-        width: 800,
-        height: 600,
-        alt: "Weather App Preview",
-      },
-    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Weather App - Real-Time Weather Forecast",
     description: "Accurate and detailed real-time weather forecasts",
-    images: ["/banner.png"],
   },
   viewport: {
     width: "device-width",
